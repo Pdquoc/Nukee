@@ -34,11 +34,11 @@ body {
     gap: 25px;
 }
 
-.download {
+.youtube {
     display: inline-flex;
     height: 50px;
     padding: 0;
-    background: #00A555;
+    background: #FF0000;
     border: none;
     outline: none;
     border-radius: 5px;
@@ -50,12 +50,12 @@ body {
     text-align: center;
 }
 
-.download:hover {
-    background: #00994C;
+.youtube:hover {
+    background: #D70000;
 }
 
-.download:active {
-    background: #009148;
+.youtube:active {
+    background: #C30000;
 }
 
 .discord {
